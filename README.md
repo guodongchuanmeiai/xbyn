@@ -30,5 +30,5 @@
 </div>
 杏吧有你 - 杏吧有你最新版app下载v1.3.2 
 <p style="color:#1F2328;font-family:-apple-system, BlinkMacSystemFont, &quot;font-size:16px;background-color:#FFFFFF;">
-	📧&nbsp;<span style="font-weight:var(--base-text-weight-semibold, 600);">邮箱联系方式:wwwk914@mail.com&nbsp;（以上地址无法访问请发送任意内容获取最新地址）</span> 
+	📧&nbsp;<span style="font-weight:var(--base-text-weight-semibold, 600);">邮箱联系方式:wwwkk523523@mail.com&nbsp;（以上地址无法访问请发送任意内容获取最新地址）</span> 
 </p>
